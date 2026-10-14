@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Output and local state
+dashboard.html
+job_agent.log
+seen_jobs.json
+assessments.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# macOS
+.DS_Store
+job_agent_alt.py
